@@ -1,0 +1,40 @@
+
+.texto{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
+.titulo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4em;
+    color: black;
+}
+
+a {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-decoration: none !important; 
+    color: #907959 !important;
+}
+
+contenedor{
+    border-color: #60513d !important;
+    border-radius: 15% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.container-fluid {
+    margin: 0px !important;
+    padding: 0px !important;
+    border-style:solid !important;
+    border-radius: 3%;
+    border: 10% !important;
+    border-color: #735640;
+    background-color: #c7c3aa !important;
+}
+
+body{
+    background-color: black !important;
+}
